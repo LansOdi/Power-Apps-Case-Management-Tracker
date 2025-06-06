@@ -6,7 +6,7 @@ A Power Apps Canvas App for managing legal case documents. This project was buil
 
 ## 🚀 Project Demo
 
-Click the thumbnail below to watch a one-minute video demonstration of the app in action, showcasing case creation and the document upload process.
+Click the thumbnail below to watch a 39-seconds video demonstration of the app in action, showcasing case creation and the document upload process.
 
 [![Power Apps Case Management Demo](video-thumbnail.JPG)](https://vimeo.com/1091309000?share=copy)
 
