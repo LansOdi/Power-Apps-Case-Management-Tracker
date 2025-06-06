@@ -37,8 +37,7 @@ This solution utilizes key components of the Microsoft Power Platform to create 
 
 | Cases Screen | Upload Screen with File |
 | :---: | :---: |
-| ![Cases Screen](screenshots/Cases_Screen.JPG) | ![Upload Screen](screenshots/Upload_Screen_Empty.JPG) |
-
+| ![Cases Screen](screenshots/Cases-Screen.JPG) | ![Upload Screen](screenshots/Upload-Screen-Empty.JPG) |
 ---
 
 ## 🧠 Challenges & Solutions
